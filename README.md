@@ -4,5 +4,5 @@
 <p align="center">2. Run the bat file.</p>
 <h3 align="center">Things to know:</h3>
 <p align="center">BattlEye and GTA Online will be removed.</p>
-<p align="center">When booting up GTA5 you will get this error. Just click Retry and GTA5 will launch without BattlEye.</p>
+<p align="center">When booting up GTA5 you will get this error. To fix it go into Rockstar Game Launcher settings and disable BattlEye.</p>
 <img src="https://raw.githubusercontent.com/TonicGaro/GTA5-Debloat/main/battleyeProtection.png" align="center">
